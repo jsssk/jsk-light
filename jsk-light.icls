@@ -1,0 +1,58 @@
+<scheme name="Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2021-07-28T19:01:51</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2021.1.3.0.0</property>
+    <property name="modified">2021-07-28T19:02:06</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <attributes>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="3d537a" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="114788" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d87380" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="2197c4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="2595c5" />
+      </value>
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="31b0b9" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="6a9b" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2ca0a8" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
